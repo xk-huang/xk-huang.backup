@@ -1,10 +1,8 @@
 ### 👋 Hi there 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xk-huang&column=7)](https://github.com/xk-huang)
 
 [![Xiaoke Huang's github stats](https://github-readme-stats.vercel.app/api?username=xk-huang&show_icons=true)](https://github.com/xk-huang/)
-[![Xiaoke Huang's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xk-huang)]
-[![Xiaoke Huang's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xk-huang)]
-[![Xiaoke Huang's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xk-huang)]
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xk-huang&column=7)](https://github.com/xk-huang)
 
 ---
 ### 📧 Contact Me:
