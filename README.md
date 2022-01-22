@@ -1,7 +1,14 @@
-### Hi there 👋
+### 👋 Hi there 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xk-huang&column=7)](https://github.com/xk-huang)
 
 [![Xiaoke Huang's github stats](https://github-readme-stats.vercel.app/api?username=xk-huang&show_icons=true)](https://github.com/xk-huang/)
+[![Xiaoke Huang's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xk-huang)]
+[![Xiaoke Huang's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xk-huang)]
+[![Xiaoke Huang's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xk-huang)]
+
+---
+### 📧 Contact Me:
+xiaokehuang[at]foxmail[dot]com
 
 <!--
 **xk-huang/xk-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
