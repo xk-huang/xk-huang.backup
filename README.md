@@ -1,8 +1,11 @@
 ### 👋 Hi there 
 
+- :man_technologist: I'm Xiaoke Huang, a Master's Student at THU
+- :telescope: Exploring: Video Editing & Representation Learning
+- :bulb: Interests: Computer Vision & Computer Graphics (especially scenes reconstruction and large-scale pre-train models)
+
 [![Xiaoke Huang's github stats](https://github-readme-stats.vercel.app/api?username=xk-huang&show_icons=true)](https://github.com/xk-huang/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xk-huang&column=7)](https://github.com/xk-huang)
 
 ---
 ### 📧 Contact Me:
