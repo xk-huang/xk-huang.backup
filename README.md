@@ -2,7 +2,7 @@
 
 - :man_technologist: I'm Xiaoke Huang, a Master's Student at THU
 - :telescope: Exploring: Human Digitization & Representation Learning
-- :bulb: Interests: Computer Vision & Computer Graphics (especially 3D reconstruction and multi-modal (vision-language) learning)
+- :bulb: Interests: Computer Vision & Computer Graphics (especially 3D reconstruction and vision-language learning)
 
 [![Xiaoke Huang's github stats](https://github-readme-stats.vercel.app/api?username=xk-huang&show_icons=true)](https://github.com/xk-huang/)
 
