@@ -9,7 +9,7 @@
 
 ---
 ### 📧 Contact Me:
-xiaokehuang[at]foxmail[dot]com
+[My email](https://xk-huang.github.io/assets/bonjour.txt)!
 
 <!--
 **xk-huang/xk-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
