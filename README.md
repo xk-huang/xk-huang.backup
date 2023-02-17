@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-- :man_technologist: I'm Xiaoke Huang (黄 小可), a Master's Student at THU
+- :man_technologist: I'm Xiaoke Huang, a Master's Student at THU
 - :telescope: Exploring: Human Digitization & Representation Learning
 - :bulb: Interests: Computer Vision & Computer Graphics (especially 3D reconstruction and vision-language learning)
 
