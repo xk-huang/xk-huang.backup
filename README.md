@@ -4,11 +4,13 @@
 - :telescope: Exploring: Human Digitization & Representation Learning
 - :bulb: Interests: Computer Vision & Computer Graphics (especially 3D reconstruction and vision-language learning)
 - :sunny: Vision: I'm pursuing multi-modal (including, but not limited to 2D vision, 3D vision, language, etc) generative models for general-purpose understanding, reasoning, imagining, and planning in our physical world.
-
+<!--
 [![Xiaoke Huang's github stats](https://github-readme-stats.vercel.app/api?username=xk-huang&show_icons=true)](https://github.com/xk-huang/)
 
-
 ---
+-->
+
+
 ### 📧 Contact Me:
 
 I am applying for the **fall 2024 PhD** programs and here is my [academic page](https://xk-huang.github.io/). If possible, please drop me an [e-mail](/assets/bonjour.txt). I sincerely appreciate and look forward to the opportunity!
