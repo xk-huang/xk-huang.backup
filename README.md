@@ -10,7 +10,8 @@
 
 ---
 ### 📧 Contact Me:
-[My email](https://xk-huang.github.io/assets/bonjour.txt)!
+
+I am applying for the **fall 2024 PhD** programs and here is my [academic page](https://xk-huang.github.io/). If possible, please drop me an [e-mail](/assets/bonjour.txt). I sincerely appreciate and look forward to the opportunity!
 
 <!--
 **xk-huang/xk-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
