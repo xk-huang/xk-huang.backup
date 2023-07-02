@@ -3,7 +3,7 @@
 - :man_technologist: I'm Xiaoke Huang, a Master's Student at THU
 - :telescope: Exploring: Human Digitization & Representation Learning
 - :bulb: Interests: Computer Vision & Computer Graphics (especially 3D reconstruction and vision-language learning)
-- :sunny: Vision: I'm pursuing multi-modal (including, but not limited to 2D vision, 3D vision, language, etc) generative models for general-purpose understanding, reasoning, imagining, and planning in our physical world.
+- :sunny: Vision: I'm pursuing multi-modal (including, but not limited to 2D vision, 3D vision, language, etc) generative **world models** for general-purpose understanding, reasoning, imagining, and planning in our physical world. (initial thoughts and discussions on my [personal page](https://xk-huang.github.io/))
 <!--
 [![Xiaoke Huang's github stats](https://github-readme-stats.vercel.app/api?username=xk-huang&show_icons=true)](https://github.com/xk-huang/)
 
